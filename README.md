@@ -4,6 +4,8 @@
 
 [Encrypted Root Install](https://wiki.archlinux.org/title/Dm-crypt/Encrypting_an_entire_system)
 
+[Omarchy](https://omarchy.org)
+
 ## Audio
 
 [Pro Audio](https://wiki.archlinux.org/title/Professional_audio)
