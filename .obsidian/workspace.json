@@ -11,21 +11,14 @@
             "id": "a9d0174c7f933a30",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "split-diff-view",
               "state": {
-                "file": "bootstrap.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-trello",
-              "title": "bootstrap"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -191,7 +184,6 @@
       "obsidian-git:Open Git source control": false,
       "whisper:Open recording controls": false,
       "smart-second-brain:Open S2B Chat": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,8 +200,8 @@
   },
   "active": "a9d0174c7f933a30",
   "lastOpenFiles": [
-    "pro video.md",
     "bootstrap.md",
+    "pro video.md",
     "README.md"
   ]
 }
