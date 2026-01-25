@@ -6,13 +6,13 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[pro video]]
 - [ ] pro 3D
 - [ ] kubernetes
 
 
 ## Working
 
+- [ ] [[pro video]]
 - [ ] add more gaming stuff on arch
 
 
