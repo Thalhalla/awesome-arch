@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] pro video
+- [ ] [[pro video]]
 - [ ] pro 3D
 - [ ] kubernetes
 
