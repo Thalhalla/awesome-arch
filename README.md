@@ -1,10 +1,14 @@
-# awseome-arch
-Awesome Arch
+# Awseome Arch
 
+## Install
 
 [Encrypted Root Install](https://wiki.archlinux.org/title/Dm-crypt/Encrypting_an_entire_system)
 
+## Audio
+
 [Pro Audio](https://wiki.archlinux.org/title/Professional_audio)
+
+## Gaming
 
 [Steam](https://wiki.archlinux.org/title/Steam)
 
