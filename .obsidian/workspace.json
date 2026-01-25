@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b5592de94daf46",
+        "id": "cd3f8d70ebf822a4",
         "type": "tabs",
         "children": [
           {
-            "id": "d4aea88208cd54f2",
+            "id": "a9d0174c7f933a30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -173,10 +177,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "whisper:Open recording controls": false,
+      "smart-second-brain:Open S2B Chat": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,13 +192,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "whisper:Open recording controls": false,
-      "smart-second-brain:Open S2B Chat": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "d4aea88208cd54f2",
+  "active": "a9d0174c7f933a30",
   "lastOpenFiles": [
     "README.md"
   ]
