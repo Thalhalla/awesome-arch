@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3f8d70ebf822a4",
+        "id": "bdf1c736906f8af0",
         "type": "tabs",
         "children": [
           {
-            "id": "a9d0174c7f933a30",
+            "id": "ca47e6dc862c4777",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -198,7 +194,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a9d0174c7f933a30",
+  "active": "ca47e6dc862c4777",
   "lastOpenFiles": [
     "bootstrap.md",
     "pro video.md",
