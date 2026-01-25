@@ -6,10 +6,14 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] pro video
+- [ ] pro 3D
+- [ ] kubernetes
 
 
 ## Working
 
+- [ ] add more gaming stuff on arch
 
 
 ## Review
@@ -18,6 +22,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] pro audio
+- [ ] virt
 
 
 
