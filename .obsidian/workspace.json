@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -177,7 +178,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
+=======
+    "width": 502.5
+>>>>>>> 1e54d36 (chore: vault backup from archie at 2026-01-25T15:04)
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +203,11 @@
       "random-note:Open random note": false
     }
   },
+<<<<<<< HEAD
   "active": "a9d0174c7f933a30",
+=======
+  "active": "2eba721ea52c6ef4",
+>>>>>>> 1e54d36 (chore: vault backup from archie at 2026-01-25T15:04)
   "lastOpenFiles": [
     "README.md"
   ]
