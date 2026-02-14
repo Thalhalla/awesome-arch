@@ -12,7 +12,7 @@ start [here](https://learn.omacom.io/2/the-omarchy-manual/59/tuis) with the exce
 
 [somaFM](https://aur.archlinux.org/packages/somafm_tui)
 
-[Subsonice/Navidrone](https://github.com/MattiaPun/SubTUI)
+[Subsonic/Navidrone](https://github.com/MattiaPun/SubTUI)
 
 [Discord](https://github.com/sparklost/endcord/issues/70)
 
