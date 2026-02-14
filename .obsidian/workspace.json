@@ -4,28 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3f8d70ebf822a4",
+        "id": "8c5b02cedeb711ff",
         "type": "tabs",
         "children": [
           {
-            "id": "a9d0174c7f933a30",
+            "id": "4a2652d50174b379",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "bootstrap.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "bootstrap"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -205,10 +194,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a9d0174c7f933a30",
+  "active": "4a2652d50174b379",
   "lastOpenFiles": [
-    "pro video.md",
     "bootstrap.md",
+    "pro video.md",
     "README.md"
   ]
 }
