@@ -16,6 +16,11 @@ start [here](https://learn.omacom.io/2/the-omarchy-manual/59/tuis) with the exce
 
 [Discord](https://github.com/sparklost/endcord/issues/70)
 
+[K9S](https://k9scli.io/topics/install/)
+`sudo pacman -S k9s`
+
+[BTOP](https://github.com/aristocratos/btop)
+`sudo pacman -S btop`
 
 ## Audio
 
